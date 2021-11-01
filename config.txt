@@ -1,0 +1,10 @@
+Archivos=ford01.dat ford02.dat ford03.dat ford04.dat nissan01.dat nissan02.dat nissan03.dat nissan04.dat 
+Semillas=75931474 59314747 93147475 31474759 14747593
+Algoritmos=DLB MA
+SelectorDLB=1
+IteracionesMax=1000
+TenenciaTabu=3
+TamanioLRC=10
+CandidatosGRASP=5
+Porcentaje Oscilacion Estrategica=0.05
+Probabilidad Oscilacion Estrategica=0.5
