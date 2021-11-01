@@ -28,3 +28,6 @@
   - CandidatosGRASP=5
   - Porcentaje Oscilacion Estrategica=0.05
   - Probabilidad Oscilacion Estrategica=0.5
+
+  ### Archivo log
+  Se muestran todos los datos de interés por cada ejecución del programa
